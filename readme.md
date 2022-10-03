@@ -7,5 +7,8 @@
 
 `$ git clone git@github...`
 
+then `clear`
+
+that is all!
 ``
 
