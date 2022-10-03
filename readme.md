@@ -3,12 +3,12 @@
 - Посмотреть как работает GitHub
 - Наработать навык работы с коммандами Git в консоли
 
-``use bash
+use bash
 
 `$ git clone git@github...`
 
 then `clear`
 
 that is all!
-``
+
 
